@@ -3,7 +3,12 @@ from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 import numpy as np
 
-app = FastAPI(title="SME Financial Health API")
+app = FastAPI(
+    title="SME Financial Health API",
+    docs_url="/docs",
+    openapi_url="/openapi.json"
+)
+
 
 app.add_middleware(
     CORSMiddleware,
