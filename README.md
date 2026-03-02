@@ -1,4 +1,4 @@
-📊 **SME Financial Health Assessment Platform 🏆 GUVI / HCL Hackathon Project**
+📊 **SME Financial Health Assessment Platform**
 
 An AI-driven financial health assessment platform designed for Small and Medium Enterprises (SMEs) to evaluate creditworthiness, identify financial risks, and provide actionable insights for business owners, banks, and NBFCs.
 
